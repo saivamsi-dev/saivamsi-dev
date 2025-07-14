@@ -9,7 +9,7 @@
 - 🔁 Full Stack Dev (Java Spring Boot + ReactJS + MySQL)  
 - 🐍 Python & Java DSA learner | Backend geek  
 - 🎨 UI/UX Designer using Figma & Canva  
-- 🤝 NSS Volunteer @ GMRIT – Tech + Social Impact 💙  
+- 🤝 NSS Volunteer(Lead) @ GMRIT – Tech + Social Impact 💙  
 - 🏆 Hackathon participant | Team Player | Lifelong Learner  
 - 📸 Head of Photography – College Film Club  
 - ✨ Exploring AI tools + productivity hacks  
