@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sai Vamsi Rao</h1>
-<h3 align="center">A Passionate Full Stack Developer | CSE Undergrad | Creative Mind at GMRIT</h3>
+<h3 align="center">A Passionate Full Stack Developer || CSE Undergrad || Creative Mind at GMRIT</h3>
 
 ---
 
