@@ -30,11 +30,10 @@ Others        : Git, GitHub, VS Code, Postman
 🎓 College Management System
 📝 To-Do Web App
 
-(Replace links once repos are created)
 
 📫 Reach Me
 
-✉️ Email: yourproemail@gmail.com
+✉️ Email: saivamsi.dev.1020@gmail.com
 
 💼 LinkedIn: linkedin.com/in/saivamsi-dev
 
