@@ -26,18 +26,19 @@ Design Tools  : Figma, Canva
 Others        : Git, GitHub, VS Code, Postman  
 📂 Featured Projects
 
-🚕 Cab Management System
-🎓 College Management System
-📝 To-Do Web App
+🚕 Cab Management System <br>
+🎓 College Management System <br>
+📝 To-Do Web App <br>
 
 
 📫 Reach Me
 
-✉️ Email: saivamsi.dev.1020@gmail.com
+✉️ Email: saivamsi.dev.1020@gmail.com  
 
-💼 LinkedIn: linkedin.com/in/saivamsi-dev
+💼 LinkedIn: [linkedin.com/in/saivamsi-dev](https://www.linkedin.com/in/sai-vamsi-rao-1890b5375)  
 
 🖼️ Portfolio: Coming Soon...
+
 
 📍 From Bhilai, based in Rajam | Open to relocating for work
 
