@@ -18,7 +18,7 @@
 
 🛠️ **Tech Stack**
 
-```bash
+
 Languages     : Java, Python, C, HTML, CSS, JavaScript  
 Frameworks    : Spring Boot, React.js, Node.js  
 Database      : MySQL, Firebase  
